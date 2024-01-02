@@ -1,4 +1,4 @@
-MONGODB_HOST: mongodb.devrobo.shop # submit your host
+MONGODB_HOST: mongodb.devrobo.shop # submit our host
 REDIS_HOST: redis.devrobo.shop
 MYSQL_HOST: mysql.devrobo.shop
 RABBITMQ_HOST: rabbitmq.devrobo.shop
